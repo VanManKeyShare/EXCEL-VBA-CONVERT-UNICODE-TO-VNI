@@ -1,4 +1,5 @@
 Function UNICODE_TO_VNI(DATA As String)
+
 Dim C As String, I As Long
    For I = 1 To Len(DATA)
       C = Mid(DATA, I, 1)
