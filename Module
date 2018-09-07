@@ -153,3 +153,4 @@ Dim C As String, I As Long
       UNICODE_TO_VNI = UNICODE_TO_VNI + C
    Next I
 End Function
+
